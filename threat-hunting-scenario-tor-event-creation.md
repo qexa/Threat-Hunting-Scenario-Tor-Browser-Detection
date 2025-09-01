@@ -75,9 +75,9 @@ DeviceFileEvents
 ---
 
 ## Created By:
-- **Author Name**: Juan Rivera
-- **Author Contact**: https://www.linkedin.com/in/juan-rivera-2b434b7b/
-- **Date**: April 12, 2025
+- **Author Name**: Alexander Curtis
+- **Author Contact**: [https://www.linkedin.com/in/juan-rivera-2b434b7b/](https://www.linkedin.com/in/alexanderscurtis/)
+- **Date**: Sept 1st, 2025
 
 
 
