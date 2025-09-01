@@ -196,12 +196,6 @@ threat-hunting-scenario-tor/
 
 ---
 
-🔗 Quick Links
-
-- [Investigation Queries](queries/)
-- [Detailed Report](docs/investigation_report.md)
-- [Mitigation Guide](docs/mitigation_steps.md)
-
 🤝 Contributing
 
 This is an educational resource. Feel free to:
